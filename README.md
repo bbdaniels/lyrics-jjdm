@@ -1,4 +1,4 @@
 # lyrics-jjdm
 another repository
 
-i have added more description
+I have added more description.
